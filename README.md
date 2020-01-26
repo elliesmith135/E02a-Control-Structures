@@ -28,11 +28,11 @@ Edit README.md to answer the following questions:
 - Open main03.py. Before running it, describe how this is different than main02.py.
 - This is different becuase I know allows players to have feedback from the color they choose.
   - What is happening on lines 9–12?
-  - They are identifying if the color you selceted is correct and they give you a response if you are correct or you should keep guessing.
+  - They are identifying if the color you selected is correct and they give you a response if you are correct or you should keep guessing.
   - Why are lines 10 and 12 indented?
   They fall under a different line of code that works together.
   - Run the program and answer the question. What happens if you don’t capitalize Red?
-  - If you do not capitalize red the program says that you guessed the wrong color and must try again.
+  - If you do not capitalize "red" the program says that you guessed the wrong color and must try again.
   - What does this tell you about "color"?
   - It not a precise as it could be and should be more detailed in the instructions.
 - Open main04.py. Before running it, describe how this is different than main03.py.
@@ -68,12 +68,13 @@ Edit README.md to answer the following questions:
    - Make that change and run the program again. (To end any Python program, you can type ctrl-c)
    - The words were typed several times.
  - Open main09.py. What is happening on line 13?
+ -It adds together the number of tries a person guesses.
    - What is the purpose of “count”?
    - It counts the number of guesses it takes for the player to guess the correct answer.
    - What is happening on line 22?
    - It will state back to you how long it took to guess the correct color.
    - Run the program.
-   - After the player guesses the correct answer
+   - After the player guesses the correct answer it says a number of tries taken.
  - *Extra credit:* open main10.py. Add a comment to each line describing what it is doing (a comment follows a pound sign [#]).
  - *Extra credit:* open main11.py. What is happening on lines 6-11?
  - The lines are identifying what colors can be chosen and how to responds when one of those colors is chosen.  It identifies when a random color was already typed and chosen as a guess.
