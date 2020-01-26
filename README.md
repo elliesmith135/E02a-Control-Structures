@@ -14,7 +14,7 @@ Comments in Python are marked by a # sign (for single-line comments) or three ma
 Edit README.md to answer the following questions:
 
 - Open main01.py. Before running it, what do you expect this program to do?
-- I expect the program to type "Greetings!" and then ask "What is my favorite color?"
+- I expect the program to type "Greetings!" and then proceed to ask "What is my favorite color?"
   - Now right click on the main1.py window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened.
   I was greeted and then the program asked my what my favorite color is.
   - What do you think the program did with what you typed in answer to the question?
